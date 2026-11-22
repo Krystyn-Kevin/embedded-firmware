@@ -1,0 +1,14 @@
+*.o
+*.out
+*.exe
+a.out
+.vscode/
+.DS_Store
+Thumbs.db
+build/
+out/
+CMakeFiles/
+cmake_install.cmake
+Makefile
+sdkconfig*
+*_sdk_config.h
